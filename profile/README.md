@@ -1,13 +1,19 @@
-# Above Pilot
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abovepilot/.github/main/profile/logo.png" alt="Above Pilot" width="112" height="112">
+</p>
 
-**AI systems, process automation, and Agentic-as-a-Service (AGaaS) for business.**
+<h1 align="center">Above Pilot</h1>
+
+<p align="center"><strong>AI systems, process automation, and Agentic-as-a-Service (AGaaS) for business.</strong></p>
+
+<p align="center">
+  <a href="https://abovepilot.com">abovepilot.com</a> &nbsp;·&nbsp; Gdansk, Poland &nbsp;·&nbsp; contact@abovepilot.com
+</p>
+
+---
 
 We design and ship production AI - autonomous agents, LLM integrations, and end-to-end
 process automation wired into real workflows to move a business metric, not demos.
-
-- Website: https://abovepilot.com
-- Location: Gdansk, Poland - clients across PL / DE / EN
-- Contact: contact@abovepilot.com
 
 ## What we do
 
